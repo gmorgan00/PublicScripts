@@ -1,4 +1,5 @@
-﻿# Replace with the name of your shortcut (without *.lnk)
+<# Use to detect desktop shortcut and prevent shorcut intune script from repeatedly running #>
+ # Replace with the name of your shortcut (without *.lnk)
 $shortcutName="Company Portal"
 
 if ($(whoami -user) -match "S-1-5-18"){
