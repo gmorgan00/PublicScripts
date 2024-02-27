@@ -3,6 +3,4 @@
 
 '<MailboxIdentity>','<MailboxIdentity>' | Get-Mailbox | Add-MailboxPermission -User <MailboxIdentityOfPersonNeedingFullAccess> -AccessRights FullAccess -AutoMapping $false
 
-#Check mailbox permission after
 
-Get-MailboxPermission -Identity <MailboxIdentity> | Format-List
