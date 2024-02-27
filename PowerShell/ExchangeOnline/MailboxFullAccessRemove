@@ -1,0 +1,1 @@
+Remove-MailboxPermission -Identity <MailboxIdentity> -User <MailboxIdentity> -AccessRights FullAccess
