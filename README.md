@@ -1,1 +1,1 @@
-Some useful scripts, use at your own risk !
+Some useful scripts and software, use at your own risk !
