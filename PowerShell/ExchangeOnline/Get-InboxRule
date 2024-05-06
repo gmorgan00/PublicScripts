@@ -1,0 +1,1 @@
+Get-InboxRule -Mailbox Joe@Contoso.com
