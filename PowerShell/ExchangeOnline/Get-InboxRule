@@ -1,1 +1,3 @@
+<# Check inbox rules for a mailbox #>
+
 Get-InboxRule -Mailbox Joe@Contoso.com
